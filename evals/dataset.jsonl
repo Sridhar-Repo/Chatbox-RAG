@@ -1,0 +1,9 @@
+{"q": "How many days a week can I work remotely?", "expect": ["three days"]}
+{"q": "What are the core hours?", "expect": ["11:00"]}
+{"q": "How much is the home office stipend?", "expect": ["$400"]}
+{"q": "Are internet costs reimbursed?", "expect": ["$40"]}
+{"q": "Do I need a VPN on public wifi?", "expect": ["VPN"]}
+{"q": "What is the capital of France?", "expect": null}
+{"q": "How do I reset my email password?", "expect": null}
+{"q": "What is the company's vacation policy?", "expect": null}
+{"q": "Who won the football world cup in 2018?", "expect": null}
